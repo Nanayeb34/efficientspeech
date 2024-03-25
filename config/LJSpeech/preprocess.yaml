@@ -1,10 +1,10 @@
 dataset: "LJSpeech"
 
 path:
-  corpus_path: "/data/tts/LJSpeech-1.1"
-  lexicon_path: "lexicon/librispeech-lexicon.txt"
-  raw_path: "/data/tts/LJSpeech-1.1/wavs"
-  preprocessed_path: "./preprocessed_data/LJSpeech"
+  corpus_path: "/content/drive/MyDrive/NSMQ AI Project/Technical/TTS/Version 2/efficient speech/elsie"
+  lexicon_path: "lexicon/elsie lexicon.txt"
+  raw_path: "/content/drive/MyDrive/NSMQ AI Project/Technical/TTS/Version 2/efficient speech/elsie/wavs"
+  preprocessed_path: "./preprocessed_data/elsie"
 
 preprocessing:
   val_size: 512
